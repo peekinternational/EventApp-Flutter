@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "961153305921",
+    "firebase_url": "https://teamtailgate-3c2cc.firebaseio.com",
+    "project_id": "teamtailgate-3c2cc",
+    "storage_bucket": "teamtailgate-3c2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961153305921:android:23a7b4d45668861d",
+        "android_client_info": {
+          "package_name": "com.teamtailgate.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961153305921-hh51c58k7q1j9e1mnvasp31chvitb3go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamtailgate.android",
+            "certificate_hash": "ccaa3d895ac9138b1ac0386c756ff7adc623fbc3"
+          }
+        },
+        {
+          "client_id": "961153305921-qpmkdlcmd0nhcbt2rhc61d7c4kpcc379.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamtailgate.android",
+            "certificate_hash": "7be1baf58df3be76097bf4b7a529c7f0999407d9"
+          }
+        },
+        {
+          "client_id": "961153305921-i4vrgti26nphvegplo6o2q31vh9kcj22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwN_Xa3WntcZzi1e-dxjJSrNpWfXaQVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961153305921-i4vrgti26nphvegplo6o2q31vh9kcj22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961153305921-2asiq4621fg1n8pfm9n0drh43l7me13b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamtailgate.app",
+                "app_store_id": "1160777088"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7412388709905137~7597331296"
+    }
+  ],
+  "configuration_version": "1"
+}
